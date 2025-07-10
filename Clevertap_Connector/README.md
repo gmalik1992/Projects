@@ -135,7 +135,7 @@ Compatible with Python 3.8 and above.
 
 ## 📎 References
 
-- [CleverTap CQL Docs](https://developer.clevertap.com/docs/cql)
+- [CleverTap CQL Docs](https://developer.clevertap.com/docs/clevertap-query-language)
 - Sample Hybrid CQL Payloads
 
 ---
