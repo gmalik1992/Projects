@@ -1,0 +1,50 @@
+[
+  {
+    "response": {
+      "count": 2953671,
+      "nQCount": 0,
+      "status": "success",
+      "tcount": 7921312,
+      "userDeviceCount": {
+        "devices": 2953671,
+        "users": 2953671
+      }
+    }
+  },
+  {
+    "response": {
+      "count": 232086,
+      "nQCount": 0,
+      "status": "success",
+      "tcount": 237358,
+      "userDeviceCount": {
+        "devices": 232086,
+        "users": 232086
+      }
+    }
+  },
+  {
+    "response": {
+      "count": 0,
+      "nQCount": 0,
+      "status": "success",
+      "tcount": 0,
+      "userDeviceCount": {
+        "devices": 0,
+        "users": 0
+      }
+    }
+  },
+  {
+    "response": {
+      "count": 45175,
+      "nQCount": 0,
+      "status": "success",
+      "tcount": 47663,
+      "userDeviceCount": {
+        "devices": 45175,
+        "users": 45175
+      }
+    }
+  }
+]

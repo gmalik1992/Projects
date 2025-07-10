@@ -1,0 +1,1061 @@
+[
+  {
+    "response": {
+      "next_cursor": "MzU8Lh8dAUhmbmZ6YG1nfAYETVEIa2V%2BZWtneQIBCQJkby56YG9gegcCAQVvbGF%2BK2hjfE4ATQZnaGd7YWplNwJMAUhlamB%2BZ2xic04ATQR6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZlZfX1F6dzYkOT9%2FZg%3D%3D",
+      "records": [
+        {
+          "profile": {
+            "df": {
+              "2": 450,
+              "1": 117,
+              "0": 60
+            },
+            "badKs": [
+              "FB:1316680958487916"
+            ],
+            "name": "Name Surname",
+            "push_token": "fcm:fCSDQ9KRQj6aWiDWtbqfb6:APA91bFfJ9si5vlhjvlQk8CPJWqHdDcj2tox74VDHdavsEiHGCpQXEtVSngAZoOqxJtxRZmj-Iyo51uTy6YO_4sT-gcQHQ18YwDJhvyhrzgpTysydjyzzBA",
+            "email": "email.email.email@gmail.com",
+            "phone": 911111111111,
+            "all_identities": [
+              "604c604a11814c1479673de0",
+              "email.email.email@gmail.com"
+            ],
+            "identity": "604c604a11814c1479673de0",
+            "profileData": {
+              "reason": "newDevice",
+              "oem": "OTA",
+              "attribution_target": "OTA",
+              "offlinefeature": "true",
+              "firstname": "Ganesh",
+              "lastname": "Kumar",
+              "isOTAuser": "true",
+              "isusernew": "false",
+              "androidpermission-androidpermissionread_sms": "Granted",
+              "foreground_location": "true",
+              "background_location": "false",
+              "precise_location": "true",
+              "post_notifications": "true",
+              "transactionalsdkenabled": "true",
+              "recentsearchorigin": "chennai",
+              "recentsearchorigincode": "Maa",
+              "recentsearchdestination": "Ahmedabad",
+              "recentsearchdestinationcode": "amd",
+              "recentsearchtriptype": "OneWay",
+              "recentsearchisinternational": "false",
+              "travelguarantee": "Default",
+              "ratinghackdone": "true",
+              "appcachedirectorysizemb": 0,
+              "appdatadirectorysizemb": 28,
+              "Travelbookingcount": 4,
+              "busbookingcount": 0,
+              "New Travelbookingcount": 29,
+              "OTAmoneybalance": 0,
+              "OTAmoneyexpiryamount": 0,
+              "cashbackclaims": 0,
+              "pnraddedcount": 0,
+              "rating": 5,
+              "signupon": "$D_1615618122",
+              "lastruntime": "$D_1701410719",
+              "OTAmoneyfetchtime": "$D_1701410719",
+              "OTAmoneyexpiry": "$D_0",
+              "lastTravelbook": "$D_1749281919",
+              "lastratingdate": "$D_1747505508",
+              "recentsearchleavedate": "$D_1749666600",
+              "immcreatetime": "$D_1683535916",
+              "immupdatetime": "$D_1749281973",
+              "lastratingwidget": "2.12.New TravelS.LAUNCH.BOOKING.SUCCESS.OLD_UI",
+              "androidpermission-androidpermissionaccess_background_location": "permanently_denied",
+              "devicelanguage": "en",
+              "deviceid": "6337d2ab565ab61f",
+              "installerpackage": "com.android.vending",
+              "uuid": "9564ecf6-d7be-41ed-aadd-a832f0fb27bf",
+              "OTAmoneyfetchtimeformatted": "11:35 01-Dec-23",
+              "pnrstatusaddition": "29-05-2025 06:19:17",
+              "pnrstatusmanualrefresh": "13-06-2025 01:26:47",
+              "Travel": "07-06-2025 09:54:25",
+              "trips": "15-06-2025 11:27:47",
+              "runningstatus": "13-06-2025 07:10:54",
+              "OTAmoney": "15-06-2025 11:27:47",
+              "bus": "02-06-2025 10:08:55",
+              "booking": "02-06-2025 11:00:35",
+              "coachposition": "11-06-2023 05:20:10",
+              "recentsearchleavedateformatted": "12062025",
+              "stationstatus": "01-01-2025 01:06:18",
+              "ratinghacklasturl": "https://play.google.com/store/apps/details?id=com.OTA.New Travel.ixiNew Travel",
+              "immbalance": "0.0000",
+              "targetinghashes": [
+                "A9659486E38E3147703AFFCDB2124C847C866F0E",
+                "840028E9D9CB6D25BA2DFF81A3578795C17F14DC",
+                "4565BF08D62AC977FC50331136A0A1E72BF59B3D",
+                "914FAFACD3E7D8EBD1D33AFBAA015C5DEB8457E2",
+                "D7722CB18592361C764B16CD0A9A0B017D9BADC2"
+              ]
+            },
+            "events": {
+              "UTM Visited": {
+                "count": 5,
+                "first_seen": 1692675622,
+                "last_seen": 1749276083
+              },
+              "App Launched": {
+                "count": 447,
+                "first_seen": 1688523249,
+                "last_seen": 1749966123
+              },
+              "New Travel Search": {
+                "count": 416,
+                "first_seen": 1688523262,
+                "last_seen": 1749967058
+              },
+              "Notification Viewed": {
+                "count": 116,
+                "first_seen": 1688523252,
+                "last_seen": 1749867144
+              },
+              "New Travel Detail": {
+                "count": 77,
+                "first_seen": 1690474182,
+                "last_seen": 1748884870
+              },
+              "Add New Travel PNR": {
+                "count": 13,
+                "first_seen": 1692799329,
+                "last_seen": 1737603178
+              },
+              "New Travel Availability": {
+                "count": 194,
+                "first_seen": 1690474184,
+                "last_seen": 1748885285
+              },
+              "Bus Search": {
+                "count": 16,
+                "first_seen": 1735671323,
+                "last_seen": 1748877442
+              },
+              "Travel Search": {
+                "count": 176,
+                "first_seen": 1692435997,
+                "last_seen": 1749313451
+              },
+              "Travel Redirect": {
+                "count": 13,
+                "first_seen": 1700278890,
+                "last_seen": 1749281698
+              },
+              "Travel Payment Initiated": {
+                "count": 4,
+                "first_seen": 1700279552,
+                "last_seen": 1749281920
+              },
+              "Travel Book": {
+                "count": 6,
+                "first_seen": 1682392714,
+                "last_seen": 1749281985
+              },
+              "Notification Clicked": {
+                "count": 125,
+                "first_seen": 1688523256,
+                "last_seen": 1749867147
+              },
+              "New Travel Booking Page": {
+                "count": 33,
+                "first_seen": 1701410535,
+                "last_seen": 1748885312
+              },
+              "New Travel Payment Initiated": {
+                "count": 13,
+                "first_seen": 1701410597,
+                "last_seen": 1748885343
+              },
+              "New Travel Booking Cancel": {
+                "count": 2,
+                "first_seen": 1748877473,
+                "last_seen": 1748882319
+              },
+              "New Travel Booking Success": {
+                "count": 29,
+                "first_seen": 1641488036,
+                "last_seen": 1748885373
+              },
+              "New Travel Book Clicked": {
+                "count": 38,
+                "first_seen": 1701410528,
+                "last_seen": 1748885312
+              },
+              "Login": {
+                "count": 3,
+                "first_seen": 1700678576,
+                "last_seen": 1747502149
+              },
+              "New Travel Payment Success": {
+                "count": 5,
+                "first_seen": 1701410648,
+                "last_seen": 1748885351
+              },
+              "Return Book Clicked": {
+                "count": 35,
+                "first_seen": 1726113798,
+                "last_seen": 1749966147
+              },
+              "Retry Booking Clicked": {
+                "count": 5,
+                "first_seen": 1747503829,
+                "last_seen": 1748884650
+              },
+              "New Travel Retry Initiated": {
+                "count": 4,
+                "first_seen": 1747503829,
+                "last_seen": 1748884650
+              },
+              "Alternate New Travel Suggestions": {
+                "count": 28,
+                "first_seen": 1690707302,
+                "last_seen": 1747448606
+              },
+              "MultiProduct New Travel selected": {
+                "count": 3,
+                "first_seen": 1690707333,
+                "last_seen": 1691805907
+              },
+              "Identity Set": {
+                "count": 4,
+                "first_seen": 1615618130,
+                "last_seen": 1730779133
+              },
+              "Identity Error": {
+                "count": 1,
+                "first_seen": 1631787429,
+                "last_seen": 1631787429
+              },
+              "Notification Delivered": {
+                "count": 3,
+                "first_seen": 1748910917,
+                "last_seen": 1749286124
+              },
+              "New Travel Search Not Available": {
+                "count": 26,
+                "first_seen": 1690707302,
+                "last_seen": 1747503595
+              },
+              "Running Status Action": {
+                "count": 11,
+                "first_seen": 1692800593,
+                "last_seen": 1749924678
+              },
+              "Travel App Form Submit2": {
+                "count": 8,
+                "first_seen": 1701410668,
+                "last_seen": 1748885372
+              },
+              "Travel App Forgot Password2": {
+                "count": 36,
+                "first_seen": 1701410674,
+                "last_seen": 1747821777
+              },
+              "Travel Detail": {
+                "count": 46,
+                "first_seen": 1692436167,
+                "last_seen": 1749281923
+              },
+              "Boarding Station Changed": {
+                "count": 1,
+                "first_seen": 1749801388,
+                "last_seen": 1749801388
+              },
+              "Travel App Availability Failed": {
+                "count": 49,
+                "first_seen": 1701403440,
+                "last_seen": 1718124589
+              },
+              "App Version Changed": {
+                "count": 10,
+                "first_seen": 1689166759,
+                "last_seen": 1749773671
+              },
+              "Aadhar Link Request": {
+                "count": 4,
+                "first_seen": 1643604485,
+                "last_seen": 1643605108
+              },
+              "Reachable By": {
+                "count": 5,
+                "first_seen": 1586669992,
+                "last_seen": 1659190287
+              },
+              "Travel Offer Applied": {
+                "count": 1,
+                "first_seen": 1739712992,
+                "last_seen": 1739712992
+              },
+              "Session Concluded": {
+                "count": 325,
+                "first_seen": 1720013271,
+                "last_seen": 1749967058
+              },
+              "State Transitioned": {
+                "count": 4,
+                "first_seen": 1723055340,
+                "last_seen": 1751740140
+              },
+              "SRP Micro Analytics": {
+                "count": 41,
+                "first_seen": 1701409685,
+                "last_seen": 1748885312
+              },
+              "Travel App Running Status": {
+                "count": 214,
+                "first_seen": 1688870107,
+                "last_seen": 1749924714
+              },
+              "New Travel Booking Status": {
+                "count": 5,
+                "first_seen": 1701410693,
+                "last_seen": 1748885373
+              },
+              "New Travel Booking Cancelled Refund": {
+                "count": 2,
+                "first_seen": 1748877473,
+                "last_seen": 1748882318
+              },
+              "Travel App Login": {
+                "count": 33,
+                "first_seen": 1701410535,
+                "last_seen": 1748885312
+              },
+              "Page Visited": {
+                "count": 409,
+                "first_seen": 1693205631,
+                "last_seen": 1749966305
+              },
+              "Travel App wrong password2": {
+                "count": 3,
+                "first_seen": 1701410671,
+                "last_seen": 1747821774
+              },
+              "Travel App Redirection Started2": {
+                "count": 35,
+                "first_seen": 1701410648,
+                "last_seen": 1748885373
+              },
+              "Travel App Redirection Finished2": {
+                "count": 30,
+                "first_seen": 1701410649,
+                "last_seen": 1748885373
+              },
+              "Rating Given": {
+                "count": 29,
+                "first_seen": 1700024602,
+                "last_seen": 1749867147
+              },
+              "Travel App Change ID": {
+                "count": 4,
+                "first_seen": 1747503827,
+                "last_seen": 1748884648
+              },
+              "New Travel Booking Home Nudge": {
+                "count": 22,
+                "first_seen": 1701441396,
+                "last_seen": 1749966147
+              },
+              "Travel Payment Success": {
+                "count": 1,
+                "first_seen": 1749281985,
+                "last_seen": 1749281985
+              },
+              "Free Cancellation Dialog": {
+                "count": 4,
+                "first_seen": 1709079407,
+                "last_seen": 1735523901
+              },
+              "Travel App wrong password bottom sheet": {
+                "count": 3,
+                "first_seen": 1701410674,
+                "last_seen": 1747821777
+              },
+              "Script injected": {
+                "count": 25,
+                "first_seen": 1701410657,
+                "last_seen": 1748885357
+              },
+              "Travel App SMS Permission Initiate": {
+                "count": 15,
+                "first_seen": 1701410674,
+                "last_seen": 1747821777
+              },
+              "Travel App SMS Permission Response": {
+                "count": 15,
+                "first_seen": 1701410675,
+                "last_seen": 1747821777
+              },
+              "permission_request": {
+                "count": 3,
+                "first_seen": 1700678568,
+                "last_seen": 1732339722
+              },
+              "Future Date Fare Alert": {
+                "count": 3,
+                "first_seen": 1709051014,
+                "last_seen": 1711197942
+              },
+              "New Travels_SRP_Filters": {
+                "count": 21,
+                "first_seen": 1701408560,
+                "last_seen": 1748876357
+              },
+              "IMM Refund Initiate": {
+                "count": 1,
+                "first_seen": 1748881222,
+                "last_seen": 1748881222
+              },
+              "HC Launch": {
+                "count": 1,
+                "first_seen": 1712292611,
+                "last_seen": 1712292611
+              },
+              "Alternate Card Dismissed": {
+                "count": 2,
+                "first_seen": 1708924518,
+                "last_seen": 1748528344
+              },
+              "Travel Payment Success BE": {
+                "count": 1,
+                "first_seen": 1749281973,
+                "last_seen": 1749281973
+              },
+              "Travel Book BE": {
+                "count": 1,
+                "first_seen": 1749281975,
+                "last_seen": 1749281975
+              },
+              "Seat selection shown": {
+                "count": 5,
+                "first_seen": 1700279486,
+                "last_seen": 1749281792
+              },
+              "Automated Web checkin Initiated": {
+                "count": 1,
+                "first_seen": 1749281997,
+                "last_seen": 1749281997
+              },
+              "webviewStartLoad": {
+                "count": 17,
+                "first_seen": 1700279553,
+                "last_seen": 1749966303
+              },
+              "webviewError": {
+                "count": 1,
+                "first_seen": 1749910287,
+                "last_seen": 1749910287
+              },
+              "New Travel Prebook Errors": {
+                "count": 6,
+                "first_seen": 1727500670,
+                "last_seen": 1735523902
+              },
+              "Automated Web Checkin Shown": {
+                "count": 1,
+                "first_seen": 1749281985,
+                "last_seen": 1749281985
+              },
+              "SpinnerTime": {
+                "count": 26,
+                "first_seen": 1700279554,
+                "last_seen": 1749966304
+              },
+              "Payment Mode Selected": {
+                "count": 4,
+                "first_seen": 1747502669,
+                "last_seen": 1749281957
+              },
+              "Payment Page Dropout": {
+                "count": 8,
+                "first_seen": 1727660755,
+                "last_seen": 1748528671
+              },
+              "PAYMENT PAGE LOAD": {
+                "count": 17,
+                "first_seen": 1700279558,
+                "last_seen": 1749281921
+              },
+              "Travel Search Successful": {
+                "count": 146,
+                "first_seen": 1692436007,
+                "last_seen": 1749313457
+              },
+              "New Traveller Sheet Dismissed": {
+                "count": 54,
+                "first_seen": 1701410547,
+                "last_seen": 1748885319
+              },
+              "New Traveller Added": {
+                "count": 10,
+                "first_seen": 1709079353,
+                "last_seen": 1748884156
+              },
+              "Edit Traveller Opened": {
+                "count": 19,
+                "first_seen": 1747502157,
+                "last_seen": 1748884577
+              },
+              "New Travel Traveller Deleted": {
+                "count": 3,
+                "first_seen": 1747821642,
+                "last_seen": 1747821658
+              },
+              "New Travel Traveller Selected": {
+                "count": 18,
+                "first_seen": 1701410596,
+                "last_seen": 1748885342
+              },
+              "New Travel Traveller Edited": {
+                "count": 10,
+                "first_seen": 1747502241,
+                "last_seen": 1748884579
+              },
+              "Automated Web checkin Done": {
+                "count": 1,
+                "first_seen": 1749505235,
+                "last_seen": 1749505235
+              },
+              "Boarding Pass Generated": {
+                "count": 1,
+                "first_seen": 1749505484,
+                "last_seen": 1749505484
+              },
+              "Automated Web checkin Submitted": {
+                "count": 1,
+                "first_seen": 1749282001,
+                "last_seen": 1749282001
+              },
+              "Bus Home": {
+                "count": 27,
+                "first_seen": 1735671318,
+                "last_seen": 1748877447
+              },
+              "Bus Selected": {
+                "count": 7,
+                "first_seen": 1735673538,
+                "last_seen": 1748877373
+              },
+              "Traveller Sheet Opened": {
+                "count": 37,
+                "first_seen": 1701410543,
+                "last_seen": 1748885312
+              },
+              "PAYMENT SUCCESS BE": {
+                "count": 5,
+                "first_seen": 1700279629,
+                "last_seen": 1749281969
+              },
+              "PAYMENT HANDOVER BE": {
+                "count": 13,
+                "first_seen": 1700279634,
+                "last_seen": 1749281973
+              },
+              "Meal selection shown": {
+                "count": 3,
+                "first_seen": 1732358328,
+                "last_seen": 1749281889
+              },
+              "Alternate Jugaad Options": {
+                "count": 79,
+                "first_seen": 1690474148,
+                "last_seen": 1748887056
+              },
+              "Alternate Card Visible": {
+                "count": 1,
+                "first_seen": 1748528332,
+                "last_seen": 1748528332
+              },
+              "MINKASU FLAG DISABLED": {
+                "count": 6,
+                "first_seen": 1732358336,
+                "last_seen": 1748885344
+              },
+              "FARE_ALERT": {
+                "count": 30,
+                "first_seen": 1734190539,
+                "last_seen": 1749820186
+              },
+              "Payment Success FE": {
+                "count": 4,
+                "first_seen": 1747503764,
+                "last_seen": 1749281974
+              },
+              "Login Sheet Opened": {
+                "count": 1,
+                "first_seen": 1747502144,
+                "last_seen": 1747502144
+              },
+              "ALTERNATE_RECOMMENDATION_BUS_ROUTE_PNR_SEARCH": {
+                "count": 1,
+                "first_seen": 1727540524,
+                "last_seen": 1727540524
+              },
+              "Verifying Payment Status": {
+                "count": 3,
+                "first_seen": 1747503764,
+                "last_seen": 1749281974
+              },
+              "Read Password Button Visible": {
+                "count": 10,
+                "first_seen": 1747503772,
+                "last_seen": 1748885356
+              },
+              "SimplD Eligibility": {
+                "count": 12,
+                "first_seen": 1727660749,
+                "last_seen": 1749281922
+              },
+              "Report Inaccuracy CTA Clicked": {
+                "count": 2,
+                "first_seen": 1727679200,
+                "last_seen": 1749902796
+              },
+              "Read Password Button Tapped": {
+                "count": 3,
+                "first_seen": 1747503780,
+                "last_seen": 1747504088
+              },
+              "Password View Hide Action": {
+                "count": 1,
+                "first_seen": 1747504232,
+                "last_seen": 1747504232
+              },
+              "Hide Password Button Visible": {
+                "count": 3,
+                "first_seen": 1747504127,
+                "last_seen": 1747821781
+              },
+              "Platform Edit Icon Clicked": {
+                "count": 4,
+                "first_seen": 1726139369,
+                "last_seen": 1749900975
+              },
+              "Return Date Selected": {
+                "count": 1,
+                "first_seen": 1748522911,
+                "last_seen": 1748522911
+              },
+              "Insurance Sticky PopUp Visible": {
+                "count": 22,
+                "first_seen": 1726642365,
+                "last_seen": 1748885312
+              },
+              "Insurance Sticky PopUp Action": {
+                "count": 3,
+                "first_seen": 1735523604,
+                "last_seen": 1748885322
+              },
+              "New Travel Booking Page Drop Off": {
+                "count": 47,
+                "first_seen": 1726642377,
+                "last_seen": 1748885374
+              },
+              "Travel App Sign In Closed": {
+                "count": 1,
+                "first_seen": 1747502262,
+                "last_seen": 1747502262
+              },
+              "Travel App User ID Tapped": {
+                "count": 1,
+                "first_seen": 1747502260,
+                "last_seen": 1747502260
+              },
+              "Stay Apps Home Page": {
+                "count": 1,
+                "first_seen": 1737186180,
+                "last_seen": 1737186180
+              },
+              "Stay Apps SRP Page": {
+                "count": 2,
+                "first_seen": 1737186196,
+                "last_seen": 1749803311
+              },
+              "Station Alarm Ring": {
+                "count": 1,
+                "first_seen": 1727714022,
+                "last_seen": 1727714022
+              },
+              "Alarm Set": {
+                "count": 5,
+                "first_seen": 1727500571,
+                "last_seen": 1749919852
+              },
+              "Password Fetch Failed": {
+                "count": 3,
+                "first_seen": 1747503780,
+                "last_seen": 1747504088
+              },
+              "Password Fetch Failed Action": {
+                "count": 4,
+                "first_seen": 1747503786,
+                "last_seen": 1747504092
+              },
+              "CBCC CVP Page Load": {
+                "count": 2,
+                "first_seen": 1748881194,
+                "last_seen": 1749282623
+              },
+              "CBCC CVP Page Backpress": {
+                "count": 2,
+                "first_seen": 1748881204,
+                "last_seen": 1748881205
+              },
+              "Station Alarm Ringing Page Dismissed": {
+                "count": 1,
+                "first_seen": 1727714029,
+                "last_seen": 1727714029
+              },
+              "Imm Transfer Booking Nudge": {
+                "count": 1,
+                "first_seen": 1748881222,
+                "last_seen": 1748881222
+              },
+              "Seat Calendar Click": {
+                "count": 1,
+                "first_seen": 1732358584,
+                "last_seen": 1732358584
+              },
+              "Stay Apps Cross Sell": {
+                "count": 2,
+                "first_seen": 1748885406,
+                "last_seen": 1749282009
+              },
+              "Stay Apps Widget Viewed": {
+                "count": 38,
+                "first_seen": 1726103336,
+                "last_seen": 1749276283
+              },
+              "Travels tab clicked": {
+                "count": 95,
+                "first_seen": 1720434409,
+                "last_seen": 1749313437
+              },
+              "Fintech Page Visited": {
+                "count": 23,
+                "first_seen": 1734579564,
+                "last_seen": 1749966305
+              },
+              "Fintech Clicks": {
+                "count": 5,
+                "first_seen": 1748881212,
+                "last_seen": 1749282634
+              },
+              "OTA money page visited": {
+                "count": 3,
+                "first_seen": 1748881213,
+                "last_seen": 1749282626
+              },
+              "txn history page visited": {
+                "count": 1,
+                "first_seen": 1749282634,
+                "last_seen": 1749282634
+              },
+              "Transfer Now": {
+                "count": 1,
+                "first_seen": 1748881222,
+                "last_seen": 1748881222
+              },
+              "App Opened": {
+                "count": 257,
+                "first_seen": 1723870235,
+                "last_seen": 1749966126
+              },
+              "ab test New Travels im page": {
+                "count": 24,
+                "first_seen": 1726642270,
+                "last_seen": 1749966305
+              },
+              "Booking Confirmation BE": {
+                "count": 1,
+                "first_seen": 1749281975,
+                "last_seen": 1749281975
+              },
+              "UPI Payment Mode Selected": {
+                "count": 3,
+                "first_seen": 1747502666,
+                "last_seen": 1747821701
+              },
+              "UPI Payment Success": {
+                "count": 4,
+                "first_seen": 1747503764,
+                "last_seen": 1749281974
+              },
+              "FoodBannerClicked": {
+                "count": 4,
+                "first_seen": 1727680136,
+                "last_seen": 1738928602
+              },
+              "OTACredit Eligibility Fetched": {
+                "count": 1,
+                "first_seen": 1727660744,
+                "last_seen": 1727660744
+              },
+              "TWID Rewards Shown": {
+                "count": 3,
+                "first_seen": 1727660744,
+                "last_seen": 1737600863
+              },
+              "OTACredit Method Details": {
+                "count": 12,
+                "first_seen": 1727660744,
+                "last_seen": 1749281921
+              },
+              "Channel Subscribed": {
+                "count": 1,
+                "first_seen": 1748659323,
+                "last_seen": 1748659323
+              },
+              "Finish Payment Input": {
+                "count": 4,
+                "first_seen": 1747503767,
+                "last_seen": 1749281977
+              },
+              "Finish Payment Response": {
+                "count": 4,
+                "first_seen": 1747503767,
+                "last_seen": 1749281977
+              },
+              "Google Wallet Boarding Pass Update": {
+                "count": 1,
+                "first_seen": 1749505486,
+                "last_seen": 1749505486
+              },
+              "Automated Web Checkin Promotion Sheet Shown": {
+                "count": 1,
+                "first_seen": 1749281988,
+                "last_seen": 1749281988
+              },
+              "Automated Web Checkin Promotion Sheet Clicked": {
+                "count": 1,
+                "first_seen": 1749281996,
+                "last_seen": 1749281996
+              },
+              "Automated Web Checkin Submitted FE": {
+                "count": 1,
+                "first_seen": 1749282002,
+                "last_seen": 1749282002
+              },
+              "Automated Boarding Pass Shared over Mail": {
+                "count": 1,
+                "first_seen": 1749505484,
+                "last_seen": 1749505484
+              },
+              "Automated Boarding Pass Shared over Whatsapp": {
+                "count": 4,
+                "first_seen": 1749505485,
+                "last_seen": 1749505485
+              },
+              "Nearby Station Recommendation Shown": {
+                "count": 19,
+                "first_seen": 1727489121,
+                "last_seen": 1748883909
+              },
+              "Station Selected": {
+                "count": 1,
+                "first_seen": 1738928332,
+                "last_seen": 1738928332
+              },
+              "Station Page Viewed": {
+                "count": 4,
+                "first_seen": 1727680137,
+                "last_seen": 1738928631
+              },
+              "Restaurant Page Viewed": {
+                "count": 2,
+                "first_seen": 1738928339,
+                "last_seen": 1738928343
+              },
+              "Restaurant Selected": {
+                "count": 1,
+                "first_seen": 1738928387,
+                "last_seen": 1738928387
+              },
+              "Menu Page Viewed": {
+                "count": 1,
+                "first_seen": 1738928387,
+                "last_seen": 1738928387
+              },
+              "TG Options": {
+                "count": 118,
+                "first_seen": 1735671237,
+                "last_seen": 1749967058
+              },
+              "Order Placed Successfully": {
+                "count": 1,
+                "first_seen": 1738928573,
+                "last_seen": 1738928573
+              },
+              "Item Added to Cart": {
+                "count": 1,
+                "first_seen": 1738928473,
+                "last_seen": 1738928473
+              },
+              "Review Page Viewed": {
+                "count": 2,
+                "first_seen": 1738928475,
+                "last_seen": 1738928570
+              },
+              "Station Page Continued": {
+                "count": 2,
+                "first_seen": 1738928338,
+                "last_seen": 1738928343
+              },
+              "Checkout Initiated": {
+                "count": 1,
+                "first_seen": 1738928570,
+                "last_seen": 1738928570
+              },
+              "TG Dialog Action": {
+                "count": 5,
+                "first_seen": 1737600860,
+                "last_seen": 1748528155
+              },
+              "Insurance On Page Card Action": {
+                "count": 7,
+                "first_seen": 1747503624,
+                "last_seen": 1748885340
+              },
+              "Insurance Dialog Shown": {
+                "count": 8,
+                "first_seen": 1737600850,
+                "last_seen": 1748885342
+              },
+              "Insurance On Page Card": {
+                "count": 63,
+                "first_seen": 1737600797,
+                "last_seen": 1748885373
+              },
+              "Landed on Travels Confirmation": {
+                "count": 1,
+                "first_seen": 1749281985,
+                "last_seen": 1749281985
+              },
+              "Survey Response": {
+                "count": 1,
+                "first_seen": 1749282615,
+                "last_seen": 1749282615
+              },
+              "Oneclick Checkout Intent": {
+                "count": 8,
+                "first_seen": 1735531579,
+                "last_seen": 1748528618
+              },
+              "TICKET CHARTING STATUS": {
+                "count": 4,
+                "first_seen": 1749012603,
+                "last_seen": 1749824532
+              },
+              "Travel Search Successful BE": {
+                "count": 13,
+                "first_seen": 1739691199,
+                "last_seen": 1739719780
+              },
+              "Upcoming Trips Loaded": {
+                "count": 1,
+                "first_seen": 1749313439,
+                "last_seen": 1749313439
+              },
+              "In app review": {
+                "count": 8,
+                "first_seen": 1747504247,
+                "last_seen": 1748885374
+              },
+              "Addon selection shown": {
+                "count": 1,
+                "first_seen": 1749281899,
+                "last_seen": 1749281899
+              },
+              "Travel Review Add On Shown": {
+                "count": 1,
+                "first_seen": 1749281903,
+                "last_seen": 1749281903
+              },
+              "Travel Review Add On Continue to Pay": {
+                "count": 1,
+                "first_seen": 1749281911,
+                "last_seen": 1749281911
+              },
+              "Offer tapped": {
+                "count": 1,
+                "first_seen": 1749057280,
+                "last_seen": 1749057280
+              }
+            },
+            "os_version": "15",
+            "app_version": "9.0.3.4",
+            "make": "Samsung",
+            "model": "Sm-s821b",
+            "platform": "Android",
+            "objectId": "__068b9a97df22bfeif94391799493a0"
+          },
+          "session_props": {
+            "session_source": "Direct"
+          },
+          "ts": 20250607130935,
+          "event_props": {
+            "ProviderId": 1058,
+            "Infants": 0,
+            "Adults": 2,
+            "vas dti premium total": 0,
+            "Children": 0,
+            "CT App Version": 1957,
+            "Provider": 1058,
+            "Fare": 5149,
+            "APD": 4,
+            "vas iti premium total": 0,
+            "Total Pax": 2,
+            "OTA Money Earned": 0.0,
+            "Instant Off": 400.0,
+            "Revenue": 778.0,
+            "OTA Money Burned": 2251.0,
+            "Fare Total": 10298.0,
+            "Leave Date": "$D_1749670800",
+            "Origin": "Chennai",
+            "Booking ID": "BG25064149527",
+            "Travel Number": "6E819*6E916",
+            "Email": "email.email.email@gmail.com",
+            "PNR Number": "Q8G1GA*Q8G1GA*Q8G1GA*Q8G1GA",
+            "Leave Date ddMMyyyy": "12 Jun 2025",
+            "Passenger Name": "Passenger Name",
+            "Class": "ECONOMY",
+            "Origin Country": "India",
+            "Fare Type": "BASIC_FARE",
+            "Insurance Added": "No",
+            "Destination": "Ahmedabad",
+            "Coupon Code": "INSTANT",
+            "Airline Code": "6E",
+            "App ID": "iximatr (1957)",
+            "Payment Method": "PAYMENT_GATEWAY",
+            "Origin Code": "MAA",
+            "Partner ID": "iximatr",
+            "Destination Country": "India",
+            "Destination Code": "AMD",
+            "Type": "Oneway",
+            "CT Source": "API",
+            "Meal selected": "false",
+            "Seat selected": "true",
+            "Meal selected for all pax": "false",
+            "vas iti added": "false",
+            "International": "false",
+            "vas dti added": "false",
+            "Seat selected for all pax": "false",
+            "Phone": 911111111111
+          }
+        }
+      ],
+      "status": "success"
+    },
+    "now_time": "2025-07-10 18:23:38.513565",
+    "now_hour": 18
+  },
+  {
+    "response": {
+      "status": "success"
+    },
+    "now_time": "2025-07-10 18:23:38.513565",
+    "now_hour": 18
+  }
+]
