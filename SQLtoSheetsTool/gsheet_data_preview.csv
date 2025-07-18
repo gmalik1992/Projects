@@ -1,0 +1,6 @@
+ingestion_time,created_at,platform,device,stay_type,metric_name,users,events
+2025-07-09 5:54:15,2025-07-08 0:00:00,Web,Desktop,Long Stay,Make Payment/Book Now,111,171
+2025-07-09 5:54:15,2025-07-08 0:00:00,Web,Desktop,Hourly Stay,Make Payment/Book Now,0,0
+2025-07-09 5:54:15,2025-07-08 0:00:00,Web,Desktop,All,Make Payment/Book Now,111,171
+2025-07-10 5:54:15,2025-07-09 0:00:00,Web,Desktop,Long Stay,Make Payment/Book Now,113,175
+2025-07-10 5:54:15,2025-07-09 0:00:00,Web,Desktop,Hourly Stay,Make Payment/Book Now,0,0

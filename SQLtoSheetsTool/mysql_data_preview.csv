@@ -1,0 +1,6 @@
+date,platform,device,stay_type,total_users,total_events,avg_events_per_user,rows_count
+2025-07-08,Abhibus,All,All,73.0,93.0,1.27,1
+2025-07-08,Abhibus,All,Hourly Stay,2.0,2.0,1.0,1
+2025-07-08,Abhibus,All,Long Stay,71.0,91.0,1.28,1
+2025-07-08,Brand App,Android,All,441.0,697.0,1.58,1
+2025-07-08,Brand App,iOS,All,336.0,523.0,1.56,1
