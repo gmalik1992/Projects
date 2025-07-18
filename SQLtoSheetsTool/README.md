@@ -46,6 +46,12 @@ The full private version (not included here) supports:
 
 ---
 
+## 🐍 Python Version
+
+Compatible with Python 3.10 and above.
+
+---
+
 ## ▶️ Usage
 
 Run the script:
