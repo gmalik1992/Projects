@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 .idea/
 .env
+*.ini
+
+# Ignore all credentials and tokens in any project
+**/auth_secrets/credentials.json
+**/auth_secrets/token.json
