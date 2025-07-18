@@ -1,0 +1,30 @@
+;------------------------------------------------------------------------------
+; Sample config.ini for SQLtoSheetsTool
+;
+; This configuration file contains the necessary settings for connecting to a
+; MySQL database and a Google Sheets document.
+;
+; [mysql] section:
+;   host           - Hostname or IP address of the MySQL server
+;   user           - Username for MySQL authentication
+;   password       - Password for the MySQL user
+;   database       - Name of the MySQL database to connect to
+;   port           - Port number for the MySQL server (default: 3306)
+;
+; [gsheet] section:
+;   spreadsheet_id - The ID of the target Google Spreadsheet
+;   sheet_name     - The name of the sheet within the spreadsheet to use
+;
+; Copy this file to config.ini and fill in your actual credentials and settings.
+;------------------------------------------------------------------------------
+
+[mysql]
+host = your-db-host
+user = your-db-user
+password = your-db-pass
+database = your-db-name
+port = 3306
+
+[gsheet]
+spreadsheet_id = your-google-spreadsheet-id
+sheet_name = your-sheet-name
