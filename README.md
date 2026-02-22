@@ -13,7 +13,6 @@ This repository is a curated collection of projects that demonstrate my skills a
 | [Analytics / Finance Data Extractor](#-analytics--finance-data-extractor) | AI · FinTech | Python, OpenAI GPT-4o, Streamlit, Pandas | Extracts structured financial data from raw news using LLMs |
 | [CleverTap Connector](#-clevertap-connector) | Data Engineering · MarTech | Python, REST APIs, CleverTap CQL | Pagination-safe API connector with Google Sheets automation |
 | [Flask Blog](#-flask-blog) | Full-Stack Web | Python, Flask, SQLAlchemy, JWT | Full-featured blog with auth, email resets, and CRUD |
-| [OpenAI](#-openai) | AI · LLM | Python, OpenAI API | Experiments and utilities built on top of OpenAI's API |
 | [SQLtoSheetsTool](#-sqltoSheetstool) | Data Automation | Python, MySQL, Google Sheets API, Pandas | Syncs SQL query results directly into Google Sheets |
 
 ---
